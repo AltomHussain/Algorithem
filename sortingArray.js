@@ -18,4 +18,3 @@ const sortTwo = (array) => {
 //console.log(sortTwo([9, 6, 7, 4, 6, 1, 8, 50]));
 
 
-//Selection sort

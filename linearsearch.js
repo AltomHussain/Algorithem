@@ -11,5 +11,3 @@ const linearSearch = (num) => {
                 console.log(newNum);
 }
 linearSearch(5)
-//console.log();
-//Linear search with strings

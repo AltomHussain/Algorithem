@@ -5,8 +5,6 @@ const selectionSort = (arr) => {
         for (let j = i+1; j < arr.length; j++){
             if (arr[j] < arr[minIndex]) {
                 minIndex = j;
-                let testVar = arr[j]
-                // console.log(arr[minIndex]);
             }
         }
         if (i !== minIndex) {

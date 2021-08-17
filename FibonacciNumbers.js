@@ -4,11 +4,8 @@ const fibonacciOne = (num) => {
     for (let i = 2; i <= num; i++){
         feb.push(feb[i-1]+ feb[i-2])
     }
-   // console.log(feb[num]);
-    //if you want to get the nth number of fib array
     return feb[num]
-    //If you want to return the whole array
-    // return feb
+ 
 }
 //fibonacciOne(10);
 

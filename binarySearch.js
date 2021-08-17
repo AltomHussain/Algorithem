@@ -36,8 +36,3 @@ function recursiveBinarySearch(n, arr) {
     }
 }
 //console.log(recursiveBinarySearch(9,[1, 3, 5, 7, 8, 9, 10]));
-
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/AltomHussain/Algorithem.git
-// git push -u origin main

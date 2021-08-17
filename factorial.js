@@ -7,7 +7,7 @@ function factorial(num) {
     console.log(fact);
 }
 factorial(5);
-//factorial(10);
+
 
 function factorialRecursion(num) {
     if(num==0 || num==1) {

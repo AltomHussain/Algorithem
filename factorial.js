@@ -18,3 +18,7 @@ function factorialRecursion(num) {
 
 }
 factorialRecursion(5);
+
+
+
+///This is my factorial algorithem
